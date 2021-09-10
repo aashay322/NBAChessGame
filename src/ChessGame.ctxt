@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ChessGame
+comment1.params=
+comment1.target=ChessGame()
+comment10.params=ownPlayer
+comment10.target=boolean\ suicide(java.lang.String)
+comment2.params=click
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ RedrawGameBoard()
+comment4.params=
+comment4.target=void\ setPlayers()
+comment5.params=name
+comment5.target=javax.swing.ImageIcon\ getIcon(java.lang.String)
+comment6.params=
+comment6.target=boolean\ checkLeBron()
+comment7.params=
+comment7.target=boolean\ checkCurry()
+comment8.params=
+comment8.target=java.lang.String\ checkPlayer()
+comment9.params=text
+comment9.target=java.lang.String\ checkArray(java.lang.String)
+numComments=11

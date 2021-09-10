@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ChessGame
+comment1.params=
+comment1.target=ChessGame()
+comment2.params=click
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ RedrawGameBoard()
+comment4.params=
+comment4.target=void\ setPlayers()
+comment5.params=click
+comment5.target=void\ movePlayers(java.awt.event.ActionEvent)
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=players
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ players\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ previousPos\ futurePos
+comment1.target=players(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=boolean\ checkMoves()
+comment3.params=
+comment3.target=boolean\ kingChecker()
+comment4.params=
+comment4.target=boolean\ coCaptains()
+comment5.params=
+comment5.target=boolean\ noThompObstacle()
+comment6.params=
+comment6.target=boolean\ noBealObstacle()
+numComments=7
